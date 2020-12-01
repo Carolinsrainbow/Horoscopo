@@ -1,4 +1,4 @@
-# horoscopo
+# Horóscopo
 
 ## Project setup
 ```
